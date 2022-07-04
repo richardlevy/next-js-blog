@@ -1,3 +1,3 @@
 export default function handler(req, res) {
-    res.status(200).json({test:'hello' im a branch});
+    res.status(200).json({test:'hello im a branch'});
 }
